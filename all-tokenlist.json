@@ -1,0 +1,102 @@
+{
+  "name": "PP ALPHA Token List",
+  "logoURI": "https://raw.githubusercontent.com/PP-Developer-Team/token-lists/main/logo.png",
+  "keywords": ["audited", "verified", "special tokens"],
+  "tags": {},
+  "timestamp": "2022-04-05T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf722b7b4876cbba560846556dd1f5932eb503de2 ",
+      "symbol": "APAD",
+      "name": "Alpha Pad",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24324/small/Untitled-design-1.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xece8531550fc599ccb2c7734494fbc358d0a9483 ",
+      "symbol": "PP",
+      "name": "PP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/PP-Developer-Team/token-lists/main/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7475c42f8bf2c19f4eaf12feaababa859fdc8914 ",
+      "symbol": "ACCEL",
+      "name": "ACCEL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22405/small/accel_new.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0f9d895aca5c8678f706fb8216fa22957685a13 ",
+      "symbol": "CULT",
+      "name": "Cult DAO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23331/small/quxZPrbC_400x400.jpg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xdc349913d53b446485e98b76800b6254f43df695  ",
+      "symbol": "BEZOGE",
+      "name": "Bezoge Earth",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15639/small/token-logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://etherscan.io/token/images/tether_32.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/chainlinktoken_32.png?v=6"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+      "name": "Aave Token",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/aave_32.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x55509c29853405d819ba611c393ce920bcca2c0b",
+      "name": "Vulture",
+      "symbol": "VULTURE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/PP-Developer-Team/token-lists/main/logos/vulture.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4ff8de35c9faa8b53ef06e41ed82bfbd8ce3242a",
+      "name": "Crypto King",
+      "symbol": "CK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/PP-Developer-Team/token-lists/main/logos/cryptoking.png"
+    }
+  ]
+}
