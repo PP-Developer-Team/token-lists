@@ -88,14 +88,6 @@
       "symbol": "VULTURE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/PP-Developer-Team/token-lists/main/logos/vulture.png"
-    },
-    {
-      "chainId": 1,
-      "address": "0x4ff8de35c9faa8b53ef06e41ed82bfbd8ce3242a",
-      "name": "Crypto King",
-      "symbol": "CK",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/PP-Developer-Team/token-lists/main/logos/cryptoking.png"
     }
   ]
 }
