@@ -28,18 +28,18 @@
     {
       "chainId": 1,
       "address": "0xece8531550fc599ccb2c7734494fbc358d0a9483",
-      "name": "Smolting Inu",
-      "symbol": "SMOL",
+      "name": "PP",
+      "symbol": "PP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/PP-Developer-Team/token-lists/main/logo.png"
     },
     {
       "chainId": 1,
       "address": "0xaab679e21a9c73a02c9ed33bbb6bb9e59f11afa9",
-      "name": "PP",
-      "symbol": "PP",
+      "name": "Smolting Inu",
+      "symbol": "SMOL",
       "decimals": 18,
-      "logoURI": "assets.coingecko.com/coins/images/25420/large/awL5SVbh_400x400.jpg"
+      "logoURI": "https://assets.coingecko.com/coins/images/25420/small/awL5SVbh_400x400.jpg"
     },
     {
       "chainId": 1,
