@@ -15,7 +15,9 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png"
+      "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png",
+      "cmc": "https://coinmarketcap.com/currencies/usd-coin/",
+      "cg": "https://www.coingecko.com/en/coins/usd-coin"
     },
     {
       "chainId": 1,
@@ -23,7 +25,9 @@
       "name": "Alpha Pad",
       "symbol": "APAD",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24324/small/Untitled-design-1.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/24324/small/Untitled-design-1.png",
+      "cmc": "https://coinmarketcap.com/currencies/alpha-pad/",
+      "cg": "https://www.coingecko.com/en/coins/alpha-pad"
     },
     {
       "chainId": 1,
@@ -31,7 +35,9 @@
       "name": "PP",
       "symbol": "PP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/PP-Developer-Team/token-lists/main/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/PP-Developer-Team/token-lists/main/logo.png",
+      "cmc": "",
+      "cg": ""
     },
     {
       "chainId": 1,
@@ -39,7 +45,9 @@
       "name": "Smolting Inu",
       "symbol": "SMOL",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25420/small/awL5SVbh_400x400.jpg"
+      "logoURI": "https://assets.coingecko.com/coins/images/25420/small/awL5SVbh_400x400.jpg",
+      "cmc": "",
+      "cg": "https://www.coingecko.com/en/coins/smolting-inu"
     },
     {
       "chainId": 1,
@@ -47,7 +55,9 @@
       "name": "ACCEL",
       "symbol": "ACCEL",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22405/small/accel_new.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/22405/small/accel_new.png",
+      "cmc": "https://coinmarketcap.com/currencies/accel/",
+      "cg": "https://www.coingecko.com/en/coins/accel-defi"
     },
     {
       "chainId": 1,
@@ -55,7 +65,9 @@
       "name": "Cult DAO",
       "symbol": "CULT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23331/small/quxZPrbC_400x400.jpg"
+      "logoURI": "https://assets.coingecko.com/coins/images/23331/small/quxZPrbC_400x400.jpg",
+      "cmc": "https://coinmarketcap.com/currencies/cult-dao/",
+      "cg": ""
     },
     {
       "chainId": 1,
@@ -63,7 +75,9 @@
       "name": "Bezoge Earth",
       "symbol": "BEZOGE",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/15639/small/token-logo.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/15639/small/token-logo.png",
+      "cmc": "https://coinmarketcap.com/currencies/bezoge-earth/",
+      "cg": "https://www.coingecko.com/en/coins/bezoge-earth"
     },
     {
       "chainId": 1,
@@ -71,7 +85,9 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://etherscan.io/token/images/tether_32.png"
+      "logoURI": "https://etherscan.io/token/images/tether_32.png",
+      "cmc": "https://coinmarketcap.com/currencies/tether/",
+      "cg": "https://www.coingecko.com/en/coins/tether"
     },
     {
       "chainId": 1,
@@ -79,7 +95,9 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://etherscan.io/token/images/chainlinktoken_32.png?v=6"
+      "logoURI": "https://etherscan.io/token/images/chainlinktoken_32.png?v=6",
+      "cmc": "https://coinmarketcap.com/currencies/chainlink/",
+      "cg": "https://www.coingecko.com/en/coins/chainlink"
     },
     {
       "chainId": 1,
@@ -87,7 +105,9 @@
       "name": "Aave Token",
       "symbol": "AAVE",
       "decimals": 18,
-      "logoURI": "https://etherscan.io/token/images/aave_32.png"
+      "logoURI": "https://etherscan.io/token/images/aave_32.png",
+      "cmc": "https://coinmarketcap.com/currencies/aave/",
+      "cg": "https://www.coingecko.com/en/coins/aave"
     },
     {
       "chainId": 1,
@@ -95,7 +115,9 @@
       "name": "Vulture",
       "symbol": "VULTURE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/PP-Developer-Team/token-lists/main/logos/vulture.png"
+      "logoURI": "https://raw.githubusercontent.com/PP-Developer-Team/token-lists/main/logos/vulture.png",
+      "cmc": "",
+      "cg": ""
     }
   ]
 }
