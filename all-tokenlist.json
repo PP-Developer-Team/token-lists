@@ -11,16 +11,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png",
-      "cmc": "https://coinmarketcap.com/currencies/usd-coin/",
-      "cg": "https://www.coingecko.com/en/coins/usd-coin"
-    },
-    {
-      "chainId": 1,
       "address": "0xf722b7b4876cbba560846556dd1f5932eb503de2",
       "name": "Alpha Pad",
       "symbol": "APAD",
@@ -28,6 +18,16 @@
       "logoURI": "https://assets.coingecko.com/coins/images/24324/small/Untitled-design-1.png",
       "cmc": "https://coinmarketcap.com/currencies/alpha-pad/",
       "cg": "https://www.coingecko.com/en/coins/alpha-pad"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png",
+      "cmc": "https://coinmarketcap.com/currencies/usd-coin/",
+      "cg": "https://www.coingecko.com/en/coins/usd-coin"
     },
     {
       "chainId": 1,
