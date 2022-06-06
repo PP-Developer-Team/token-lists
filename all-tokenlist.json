@@ -11,6 +11,16 @@
   "tokens": [
     {
       "chainId": 1,
+      "address": "0xece8531550fc599ccb2c7734494fbc358d0a9483",
+      "name": "PP",
+      "symbol": "PP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/PP-Developer-Team/token-lists/main/logo.png",
+      "cmc": "",
+      "cg": ""
+    },
+    {
+      "chainId": 1,
       "address": "0xf722b7b4876cbba560846556dd1f5932eb503de2",
       "name": "Alpha Pad",
       "symbol": "APAD",
@@ -28,16 +38,6 @@
       "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png",
       "cmc": "https://coinmarketcap.com/currencies/usd-coin/",
       "cg": "https://www.coingecko.com/en/coins/usd-coin"
-    },
-    {
-      "chainId": 1,
-      "address": "0xece8531550fc599ccb2c7734494fbc358d0a9483",
-      "name": "PP",
-      "symbol": "PP",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/PP-Developer-Team/token-lists/main/logo.png",
-      "cmc": "",
-      "cg": ""
     },
     {
       "chainId": 1,
