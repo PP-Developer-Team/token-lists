@@ -118,6 +118,86 @@
       "logoURI": "https://raw.githubusercontent.com/PP-Developer-Team/token-lists/main/logos/vulture.png",
       "cmc": "",
       "cg": ""
+    },
+    {
+      "chainId": 1,
+      "address": "0x0913ddae242839f8995c0375493f9a1a3bddc977",
+      "name": "Marshall Rogan Inu",
+      "symbol": "MRI",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/marshallroganinu_32.png",
+      "cmc": "https://coinmarketcap.com/currencies/marshall-rogan-inu/",
+      "cg": ""
+    },
+    {
+      "chainId": 1,
+      "address": "0xf4d2888d29d722226fafa5d9b24f9164c092421e",
+      "name": "LooksRare",
+      "symbol": "LOOKS",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/looksrare_32.png",
+      "cmc": "",
+      "cg": "LooksRare"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e4ede388cbc9f4b5c79681b7f94d36a11abebc9",
+      "name": "X2Y2",
+      "symbol": "X2Y2",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/x2y2_32.png",
+      "cmc": "https://coinmarketcap.com/currencies/x2y2/",
+      "cg": "https://www.coingecko.com/en/coins/x2y2"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+      "name": "HEX",
+      "symbol": "HEX",
+      "decimals": 8,
+      "logoURI": "https://etherscan.io/token/images/hex_32.png",
+      "cmc": "https://coinmarketcap.com/currencies/hex/",
+      "cg": "https://www.coingecko.com/en/coins/hex"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb53ecf1345cabee6ea1a65100ebb153cebcac40f",
+      "name": "Childhoods End",
+      "symbol": "O",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25670/large/photo_2022-05-27_12-45-29.jpg",
+      "cmc": "",
+      "cg": "https://www.coingecko.com/en/coins/childhoods-end"
+    },
+    {
+      "chainId": 1,
+      "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+      "name": "SHIBA INU",
+      "symbol": "SHIB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11939/small/shiba.png",
+      "cmc": "https://coinmarketcap.com/currencies/shiba-inu/",
+      "cg": "https://www.coingecko.com/en/coins/shiba-inu"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa71d0588EAf47f12B13cF8eC750430d21DF04974",
+      "name": "Shiba Predator",
+      "symbol": "QOM",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/qompredator_32.png",
+      "cmc": "https://coinmarketcap.com/currencies/shiba-predator/",
+      "cg": "https://www.coingecko.com/en/coins/shiba-predator"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/apecoin_32.png",
+      "cmc": "",
+      "cg": "https://www.coingecko.com/en/coins/apecoin"
     }
   ]
 }
